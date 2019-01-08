@@ -15,7 +15,6 @@ public class Database {
 
 	private Connection connection = null;
 	private Statement statement = null;
-	private ResultSet resultSet = null;
 
 	private Database() {
 		try {
